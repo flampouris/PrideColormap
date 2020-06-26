@@ -7,7 +7,7 @@ On June 26, 2015, the Supreme Court of the United States ruled to make same-sex 
  
 The pride colormap was created to commemorate this significant step towards equality and to be a constant reminder that the scientific community and its results are part of the society and should guide us to a brighter future.  
  
-The colormap is according to the recommendations of the American Meteorological Society MPS Subcommittee for Color Guidelines, as published in AMS (1993) [link](https://journals.ametsoc.org/bams/article/74/9/1709/54555/Guidelines-for-Using-Color-to-Depict) . A very similar colormap is already used at the operational visualizations [link](https://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=WW3&area=ATL-PAC&ps=area#) 
+The colormap is according to the recommendations of the American Meteorological Society MPS Subcommittee for Color Guidelines, as published in AMS (1993) [link](https://journals.ametsoc.org/bams/article/74/9/1709/54555/Guidelines-for-Using-Color-to-Depict) . A very similar colormap is already used for the operational visualizations [link](https://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=WW3&area=ATL-PAC&ps=area#) .
  
 ## Use 
 
