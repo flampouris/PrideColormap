@@ -10,8 +10,14 @@ The pride colormap was created to commemorate this significant step towards equa
 The colormap is according to the recommendations of the American Meteorological Society MPS Subcommittee for Color Guidelines, as published in AMS (1993) [link](https://journals.ametsoc.org/bams/article/74/9/1709/54555/Guidelines-for-Using-Color-to-Depict) . A very similar colormap is already used at the operational visualizations [link](https://mag.ncep.noaa.gov/model-guidance-model-parameter.php?group=Model%20Guidance&model=WW3&area=ATL-PAC&ps=area#) 
  
 ## Use 
-See the instructions and the examples at the top of the pride.m script. 
 
+Fast demos:
+
+`figure; colorbar; colormap(pride); title ('Default: 8 color categories');` \
+`figure; colorbar; colormap(pride(45)); title ('User defined number of color categories');` \
+`figure; colorbar; colormap(pride(0:0.123:20)); title ('User defined vector for the color categories');`
+
+For more information, see the instructions and the examples at the top of the pride.m script. 
 
 Tested with Octave 5.2 and Matlab 2018a.  
  
