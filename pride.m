@@ -16,9 +16,8 @@ function ams = pride(n)
 % ams   : colormap, for 1 and 2 the size(ams) = n,3
 %                   for 3, the size(ams) = n+1,3
 %
-%% demo
+%% Demo
 % figure; colorbar; colormap(pride); title ('Default: 8 color categories');
-% ams = pride(45);
 % figure; colorbar; colormap(pride(45)); title ('User defined number of color categories');
 % figure; colorbar; colormap(pride(0:0.123:20)); title ('User defined vector for the color categories');
 %
